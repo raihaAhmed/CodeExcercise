@@ -11,7 +11,7 @@ I have included one photoshop file for the design for View Gallery Scenerio of G
 ####Tool used: Webflow
 Online version is available at http://blank-site1408095659083.webflow.com. I implemented the graphic design for the view Gallery.I have also included project files under code folder.  Once the repository is cloned,  simply run index.html file in the Code folder to see the web design.
 
-_To clone use the master branch, the other branch was created by me to get to know git and github_.
+
 
 
 Thank you
